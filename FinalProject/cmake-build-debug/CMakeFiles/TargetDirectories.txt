@@ -1,0 +1,3 @@
+C:/Users/kurza/CLionProjects/FinalProject/cmake-build-debug/CMakeFiles/FinalProject.dir
+C:/Users/kurza/CLionProjects/FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurza/CLionProjects/FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
